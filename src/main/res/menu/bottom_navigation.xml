@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_intro_city"
+        android:title="ciutat"
+        android:icon="@drawable/ic_ciutat"
+        />
+    <item android:id="@+id/nav_llista_ciutat"
+        android:title="llista ciutat"
+        android:icon="@drawable/ic_ciutat_llista"
+        />
+
+</menu>
